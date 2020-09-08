@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Adarshreddy!](https://adarshreddyash.github.io) 
+### Hey 👋🏽, I'm [Rony CB!](https://adarshreddyash.github.io) 
 
 <a href="https://twitter.com/adarshreddyash">
   <img align="left" alt="Adarshreddyash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
