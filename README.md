@@ -1,18 +1,18 @@
 ### Hey 👋🏽, I'm [Rony CB!](https://adarshreddyash.github.io) 
 
-<a href="https://twitter.com/adarshreddyash">
+<a href="https://twitter.com/RonyCB8">
   <img align="left" alt="Adarshreddyash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/adarshreddyash/">
+<a href="https://www.linkedin.com/in/rony-carhuas-baldeon-050377170/">
   <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.facebook.com/rony.cb.100">
+  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Rony, a Full Stack Developer Engineer 🚀 from Peru, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy movies, video games and traveling.
+Hi, I'm Rony, a Full Stack Developer Engineer 🚀 from Peru, currently, Freelancer 👨🏽‍💻, Beside's programming, I enjoy movies, video games and traveling.
   
 **Talking about Personal Stuffs:**
 
