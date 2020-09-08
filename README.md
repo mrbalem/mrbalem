@@ -12,16 +12,16 @@
 <br />
 <br />
 
-Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
+Hi, I'm Rony, a Full Stack Developer Engineer 🚀 from Peru, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy movies, video games and traveling.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/Adarshreddyash/ronix-frontend);
-- 🌱 I’m currently learning GraphQL ,typescript and Kubernetes; 
-- 👯 I’m looking to collaborate on [Ronix](https://github.com/Adarshreddyash/ronix-frontend) 🤝;
+- 👨🏽‍💻 I’m currently working on [Ink-grid](https://digitalnew.solutions/home?language=es);
+- 🌱 I’m currently learning GraphQL, React, typescript and Kubernetes; 
+- 👯 I’m looking to collaborate on [ReactTypeBoilerplate](https://github.com/mrbalem/react-type-boilerplate) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
+- ⚡️ Vengixlabs: My future Project which helps in R&D for companies. 
 - 📫 How to reach me: ronycarhuas20@gmail.com;
 - 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf)
 
@@ -42,6 +42,4 @@ Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Bl
 
 
 
-![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=adarshreddyash&show_icons=true&hide_border=true)
-
-//credits to creators
+![Rony's github stats](https://github-readme-stats.vercel.app/api?username=mrbalem&show_icons=true&hide_border=true)
