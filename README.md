@@ -16,7 +16,6 @@ Hi, I'm Rony, a Full Stack Developer Engineer 🚀 from Peru, currently, Freelan
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Ink-grid](https://digitalnew.solutions/home?language=es);
 - 🌱 I’m currently learning GraphQL, React, typescript and Kubernetes; 
 - 👯 I’m looking to collaborate on [ReactTypeBoilerplate](https://github.com/mrbalem/react-type-boilerplate) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
